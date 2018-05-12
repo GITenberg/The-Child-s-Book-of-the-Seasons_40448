@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/601
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Ransome
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40448#The-Child-s-Book-of-the-Seasons
 gutenberg_issued: '2012-08-08'
 gutenberg_type: Text
 identifiers:
