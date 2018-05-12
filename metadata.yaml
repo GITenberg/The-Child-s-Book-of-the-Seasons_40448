@@ -1,0 +1,34 @@
+_repo: The-Child-s-Book-of-the-Seasons_40448
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Craine, Frances
+    gutenberg_agent_id: '40625'
+    url: http://www.gutenberg.org/2009/agents/40625
+covers:
+- cover_type: archival
+  image_path: 40448-h/images/img01_cover.jpg
+creator:
+  author:
+    agent_name: Ransome, Arthur
+    birthdate: 1884
+    deathdate: 1967
+    gutenberg_agent_id: '601'
+    url: http://www.gutenberg.org/2009/agents/601
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Ransome
+description: ''
+gutenberg_issued: '2012-08-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40448'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Seasons -- Juvenile literature'
+- !lcsh 'Natural history -- Juvenile literature'
+- !lcc 'QH'
+tableOfContents: Spring -- Summer -- Autumn -- Winter.
+title: The Child's Book of the Seasons
+url: http://www.gutenberg.org/ebooks/40448
